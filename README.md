@@ -15,7 +15,7 @@
 - 🌱 Currently leveling up: UI/UX polish, custom views, and modern Android practices
 - 💡 Interested in eventually exploring **Jetpack Compose and adding AI features to mobile apps**
 - 📫 Reach me: **[reyhaneh051386@gmail.com]**
-- ⚡ Fun fact: [I absolutely LOVE ice cream 🍧]
+- ⚡ Fun fact: [I absolutely LOVE ice cream 🍧✨]
 
 <br/>
 
@@ -40,13 +40,13 @@
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=squaredR007&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=squaredR007&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
 
 <br/>
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=squaredR007&theme=react-dark&bg_color=0D1117&color=FF4FA3&line=B084F5&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/FF4FA3/squaredR007" width="100%"/>
 
 <br/>
 
@@ -60,7 +60,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/reyhaneh-rezaei-ab7749436" target="_blank">
+  <a href="https://linkedin.com/in/reyhaneh-rezaei-squaredr007" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:reyhaneh051386@gmail.com">
