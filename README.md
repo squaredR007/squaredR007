@@ -13,7 +13,7 @@
 - 📱 I'm currently building **Android apps** with traditional XML layouts + Java/Kotlin
 - 🔨 My first app: a **BMI Calculator** — learning Android dev along the way
 - 🌱 Currently leveling up: UI/UX polish, custom views, and modern Android practices
-- 💡 Interested in eventually exploring **Jetpack Compos and adding AI features to mobile apps**
+- 💡 Interested in eventually exploring **Jetpack Compose and adding AI features to mobile apps**
 - 📫 Reach me: **[reyhaneh051386@gmail.com]**
 - ⚡ Fun fact: [I absolutely LOVE ice cream 🍧]
 
