@@ -60,7 +60,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/reyhaneh-rezaei-ab7749436" target="_blank">
+  <a href="https://linkedin.com/in/reyhaneh-rezaei-ab7749436" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
