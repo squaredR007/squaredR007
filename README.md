@@ -30,8 +30,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=squaredR007&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=squaredR007&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=B084F5&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=squaredR007&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=squaredR007&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=B084F5&text_color=c9d1d9" />
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=squaredR007&theme=dark&hide_border=true&background=0D1117&ring=FF4FA3&fire=B084F5&currStreakLabel=FF4FA3" />
@@ -62,9 +62,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/reyhaneh-rezaei-ab7749436" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-B084F5?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:reyhaneh051386@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white" />
