@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&background=0D1117&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BYOUR+NAME%5D+%F0%9F%91%8B;Android+%2F+Mobile+Developer;Building+apps+one+bug+at+a+time+%F0%9F%90%9B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4FA3&background=0D1117&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BReyhaneh+Rezaei%5D+%F0%9F%91%8B;Android+%2F+Mobile+Developer;Building+apps+one+bug+at+a+time+%F0%9F%90%9B" alt="Typing SVG" />
 
 </div>
 
 <!-- ============ BANNER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF9C&height=180&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:B084F5,100:FF4FA3&height=180&section=header&text=&fontSize=0" width="100%"/>
 
 ### 🚀 About Me
 
 - 📱 I'm currently building **Android apps** with traditional XML layouts + Java/Kotlin
 - 🔨 My first app: a **BMI Calculator** — learning Android dev along the way
 - 🌱 Currently leveling up: UI/UX polish, custom views, and modern Android practices
-- 💡 Interested in eventually exploring **Adding AI features to mobile apps**
+- 💡 Interested in eventually exploring **Jetpack Compos and adding AI features to mobile apps**
 - 📫 Reach me: **[reyhaneh051386@gmail.com]**
-- ⚡ Fun fact: [I love ice cream 🍧]
+- ⚡ Fun fact: [I absolutely LOVE ice cream 🍧]
 
 <br/>
 
@@ -30,11 +30,11 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=B084F5&text_color=c9d1d9" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=FF4FA3&fire=B084F5&currStreakLabel=FF4FA3" />
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=FF4FA3&line=B084F5&point=ffffff&hide_border=true" width="100%"/>
 
 <br/>
 
@@ -61,18 +61,18 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-B084F5?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=B084F5&label=PROFILE+VIEWS" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:B084F5,100:0D1117&height=120&section=footer" width="100%"/>
