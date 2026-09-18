@@ -14,8 +14,8 @@
 - 🔨 My first app: a **BMI Calculator** — learning Android dev along the way
 - 🌱 Currently leveling up: UI/UX polish, custom views, and modern Android practices
 - 💡 Interested in eventually exploring **Jetpack Compose and adding AI features to mobile apps**
-- 📫 Reach me: **reyhaneh051386@gmail.com**
 - 📝 Currently studying **computer engineering** at **Shahid Beheshti University**
+- 📫 Reach me: **reyhaneh051386@gmail.com**
 - ⚡ Fun fact: I absolutely LOVE ice cream 🍧✨
 
 <br/>
